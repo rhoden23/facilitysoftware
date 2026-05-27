@@ -1,0 +1,16 @@
+node_modules/
+dist/
+.vite/
+*.docx
+*.DOCX
+*.url
+**/.vite/
+Pictures/
+Public/
+Music/
+/components/
+favicon.ico
+/rcfe_project/
+/rcfeProject/
+/src-rebranded/
+"Roden's Notebook.url"
