@@ -1,0 +1,15 @@
+node_modules/
+dist/
+.vite/
+.env
+*.docx
+*.DOCX
+*.url
+Pictures/
+Public/
+Music/
+/components/
+rcfe_project/
+rcfeProject/
+src-rebranded/
+careops_ig_*.html
